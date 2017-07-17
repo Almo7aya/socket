@@ -1,0 +1,23 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+    "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.0",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.0",
+    "ejs": "^2.5.6",
+    "mysql": "^2.13.0",
+    "socket.io": "^1.7.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Almohaya",
+  "license": "MIT"
+}
